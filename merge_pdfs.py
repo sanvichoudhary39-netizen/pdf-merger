@@ -2,7 +2,7 @@ from PyPDF2 import PdfMerger
 import os
 import sys
 
-pdf_folder =r"C:\Users\LENOVO\Desktop\pdfs"
+pdf_folder =r"C:\Users\YourName\Desktop\pdfs"
 
 output_file = "merged_output.pdf"
 
